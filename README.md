@@ -1,4 +1,11 @@
+<h1> About me</h1>
+
+<p>
+  I am a <strong>Full Stack Developer</strong> with one year of experience. My expertise includes a variety of technologies for both front-end and back-end development. My English proficiency is at an <strong>Upper-Intermediate</strong> level. I'm a friendly and approachable individual, always keen on learning new technologies and collaborating with others to achieve shared goals.
+</p>
+
 <h1> Skills</h1> 
+
 <h2>Front-end</h2>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -42,3 +49,39 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
 ![Basic OOP](https://img.shields.io/badge/-Basic%20OOP-1E90FF?style=flat&logo=oop&logoColor=white)
 
+<h1>Projects</h1>
+
+<div>
+  <h2>Phone Catalog</h2>
+  <p>Web app with a clean, intuitive interface for browsing and shopping gadgets.</p>
+  <p><strong>Technologies:</strong> React, TypeScript, Vite, Node.js, ESLint, SCSS, Zustand, REST API, Bootstrap, Swiper.</p>
+  <a href="https://fs-mar24-kyrylos-witnesses.github.io/phone-catalog/">Demo</a> | <a href="https://github.com/fs-mar24-kyrylos-witnesses/phone-catalog">Code</a>
+</div>
+
+<div>
+  <h2>Todo App</h2>
+  <p>Task manager with robust features for effective organization.</p>
+  <p><strong>Technologies:</strong> React, TypeScript, Bulma, React Context and Fetch API.</p>
+  <a href="https://metrakonon.github.io/todo-app/">Demo</a> | <a href="https://github.com/metrakonon/todo-app">Code</a>
+</div>
+
+<div>
+  <h2>Landing Pages</h2>
+  <p>Responsive landing pages adhering to best practices.</p>
+  <p><strong>Technologies:</strong> HTML, SASS, CSS, BEM.</p>
+  <ul>
+    <li>
+      <p>The Met</p>
+      <a href="https://metrakonon.github.io/the-met-landing"/>Demo</a> | <a href="https://github.com/metrakonon/the-met-landing">Code</a>
+    </li>
+    <li>
+      <p>NAMU</p>
+      <a href="https://metrakonon.github.io/namu/">Demo</a> | <a href="https://github.com/metrakonon/namu">Code</a>
+    </li>
+  </ul>
+</div>
+
+<h1>My contacts</h1>
+<a href="https://www.linkedin.com/in/artem-kononenko-ba3716314" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
