@@ -1,7 +1,7 @@
 <h1> About me</h1>
 
 <p>
-  I am a <strong>Full Stack Developer</strong> with one year of experience. My expertise includes a variety of technologies for both front-end and back-end development. My English proficiency is at an <strong>Upper-Intermediate</strong> level. I'm a friendly and approachable individual, always keen on learning new technologies and collaborating with others to achieve shared goals.
+  I am a <strong>Full Stack Developer</strong> with experience in building and maintaining web applications. My expertise includes a variety of technologies for both front-end and back-end development. My English proficiency is at an <strong>Upper-Intermediate</strong> level. I'm a friendly and approachable individual, always keen on learning new technologies and collaborating with others to achieve shared goals.
 </p>
 
 <h1> Skills</h1> 
